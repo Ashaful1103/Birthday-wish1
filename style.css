@@ -39,11 +39,11 @@ body {
   padding: 10px;
 }
 .paper.image p {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 img {
-  max-height: 200px;
+  max-height: 1000px;
   width: 100%;
   user-select: none;
 }
@@ -64,9 +64,10 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 50px;
+  font-size: 70px;
   color: rgb(0,0,100);
   opacity: 0.75;
+
   user-select: none;
   
   // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
